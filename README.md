@@ -11,3 +11,5 @@
 <li>The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber program, what does it mean?</li>
 <p>Answer: This means that the publisher and subscriber are connected to the same AMQP instance with the same authentication details (username and password are both guest, just like subscriber).
 </ol>
+
+![alt text](image.png)
