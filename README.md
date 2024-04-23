@@ -23,3 +23,7 @@ Screenshot of the subscriber's terminal after successfully receiving 5 message b
 Screenshot of the publisher's terminal after successfully sending 5 message broker events to the subscriber
 
 ![alt text](image-1.png)
+
+Screenshot of RabbitMQ after I've run publisher several times. Each spike represents the publisher program being run (and therefore sending a message).
+
+![alt text](image-2.png)
