@@ -12,4 +12,14 @@
 <p>Answer: This means that the publisher and subscriber are connected to the same AMQP instance with the same authentication details (username and password are both guest, just like subscriber).
 </ol>
 
+Running RabbitMQ
+
 ![alt text](image.png)
+
+Screenshot of the subscriber's terminal after successfully receiving 5 message broker events from the publisher
+
+![alt text](<Screenshot 2024-04-23 112648.png>)
+
+Screenshot of the publisher's terminal after successfully sending 5 message broker events to the subscriber
+
+![alt text](image-1.png)
